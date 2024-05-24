@@ -84,7 +84,7 @@ body {
 #gareebbachche{
     height: 350px;
     width: 450px;
-    background-image: url(./pics/children2-removebg-preview.png);
+    background-image: url(./children2-removebg-preview.png);
     background-size:contain;
     position:absolute;
     right:70px;
@@ -150,7 +150,7 @@ body {
 }
 
 #qedu{
-    background-image: url(./pics/kids.jpg);
+    background-image: url(./kids.jpg);
     background-size:cover;
     border-radius:15px;
     border:2px solid #7091E6;
@@ -164,7 +164,7 @@ body {
 }
 
 #mres{
-    background-image: url(./pics/mres.jpg);
+    background-image: url(./mres.jpg);
     background-size:cover;
     border-radius:15px;
     border:2px solid #7091E6;
@@ -178,7 +178,7 @@ body {
 }
 
 #pass{
-    background-image: url(./pics/pass.jpg);
+    background-image: url(./pass.jpg);
     background-size:cover;
     border-radius:15px;
     border:2px solid #7091E6;
@@ -254,7 +254,7 @@ body {
     position:relative;
     left:950px;
     bottom:400px;
-    background-image: url(./pics/about_us.jpg);
+    background-image: url(./about_us.jpg);
     background-size: cover;
 }
 
